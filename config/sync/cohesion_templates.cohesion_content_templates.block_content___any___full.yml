@@ -1,0 +1,18 @@
+uuid: 7aaf98e6-a65f-4e7e-b197-26fa1cc4f715
+langcode: en
+status: false
+dependencies: {  }
+label: 'Full (Block_content)'
+id: block_content___any___full
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0042
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: block_content
+bundle: __any__
+view_mode: full
+master_template: ''

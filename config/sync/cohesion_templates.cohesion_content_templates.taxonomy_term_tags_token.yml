@@ -1,0 +1,18 @@
+uuid: b3e97e04-867b-40c7-9af5-f97f63a5f71d
+langcode: en
+status: false
+dependencies: {  }
+label: 'Token (Taxonomy_term, Tags)'
+id: taxonomy_term_tags_token
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0042
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: taxonomy_term
+bundle: tags
+view_mode: token
+master_template: ''

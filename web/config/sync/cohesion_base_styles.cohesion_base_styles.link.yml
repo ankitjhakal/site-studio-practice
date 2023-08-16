@@ -1,0 +1,13 @@
+uuid: cc8be405-045a-4601-9893-baf4bee0c286
+langcode: en
+status: false
+dependencies: {  }
+label: Link
+id: link
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0042
+locked: false
+modified: false
+selectable: false
+custom: null

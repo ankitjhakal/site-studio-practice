@@ -1,0 +1,28 @@
+_core:
+  default_config_hash: gpIMmHdWGMtTf2ZJoO-QHF9bk9ZVESnX-4LD-r3YtTw
+api_build_status: NO_CONTENT
+api_url: 'https://api.cohesiondx.com'
+api_key: rusthorse-29530
+organization_key: axelerant-38526
+site_id: db3bca46-10e0-458f-b448-28d3fe0b4915
+use_dx8: enable
+google_map_api_key: ''
+asset_is_imported: '1'
+animate_on_view_mobile: DISABLED
+elements_permissions: '{}'
+sidebar_view_style: thumbnails
+log_dx8_error: disable
+add_animation_classes: DISABLED
+sync_legacy_visibility: false
+image_browser:
+  config:
+    type: imce_imagebrowser
+    dx8_imce_stream_wrapper: public
+  content:
+    type: medialib_imagebrowser
+    cohesion_media_lib_types:
+      - audio
+      - document
+      - image
+      - remote_video
+      - video

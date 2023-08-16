@@ -1,0 +1,7 @@
+uuid: 02a124ee-842b-4676-9023-bf897cd1f5b6
+langcode: en
+status: true
+dependencies: {  }
+label: 'Slider pagination'
+id: slider-pagination
+element: null

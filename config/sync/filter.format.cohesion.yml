@@ -1,0 +1,60 @@
+uuid: 41c4ebfe-8d23-4f48-99f8-f4fca7d1024e
+langcode: en
+status: true
+dependencies:
+  module:
+    - editor
+    - media
+_core:
+  default_config_hash: VXOM2nH1ZNBMl2lrZAoi56iaVUSRDwA4OYxZRhwYuyg
+name: 'Site Studio'
+format: cohesion
+weight: 0
+filters:
+  filter_html:
+    id: filter_html
+    provider: filter
+    status: true
+    weight: -10
+    settings:
+      allowed_html: '<br> <p class="text-align-left text-align-center text-align-right text-align-justify"> <h1 class="text-align-left text-align-center text-align-right text-align-justify"> <h2 class="text-align-left text-align-center text-align-right text-align-justify"> <h3 class="text-align-left text-align-center text-align-right text-align-justify"> <h4 class="text-align-left text-align-center text-align-right text-align-justify"> <h5 class="text-align-left text-align-center text-align-right text-align-justify"> <h6 class="text-align-left text-align-center text-align-right text-align-justify"> <span class> <strong> <em> <u> <pre class="text-align-left text-align-center text-align-right text-align-justify"> <code class="language-*"> <blockquote> <a href> <ul> <ol reversed start> <li> <drupal-media data-entity-type data-entity-uuid alt data-caption data-align>'
+      filter_html_help: true
+      filter_html_nofollow: false
+  editor_file_reference:
+    id: editor_file_reference
+    provider: editor
+    status: true
+    weight: 0
+    settings: {  }
+  filter_align:
+    id: filter_align
+    provider: filter
+    status: true
+    weight: 0
+    settings: {  }
+  filter_caption:
+    id: filter_caption
+    provider: filter
+    status: true
+    weight: 0
+    settings: {  }
+  filter_htmlcorrector:
+    id: filter_htmlcorrector
+    provider: filter
+    status: true
+    weight: 10
+    settings: {  }
+  media_embed:
+    id: media_embed
+    provider: media
+    status: true
+    weight: 100
+    settings:
+      default_view_mode: default
+      allowed_view_modes: {  }
+      allowed_media_types:
+        audio: audio
+        document: document
+        image: image
+        remote_video: remote_video
+        video: video
