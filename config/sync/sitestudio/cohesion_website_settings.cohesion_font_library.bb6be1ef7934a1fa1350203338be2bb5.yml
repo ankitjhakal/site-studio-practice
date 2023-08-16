@@ -1,0 +1,31 @@
+uuid: d200ddd7-b882-4174-a06b-6554cc3dbff6
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'file:file:84369178-1131-4778-8a2d-2147988fd58a'
+label: 'Montserrat Extra bold'
+id: bb6be1ef7934a1fa1350203338be2bb5
+json_values: |
+  {
+      "type": "upload",
+      "fontDisplay": "auto",
+      "name": "Montserrat Extra bold",
+      "fontFiles": {
+          "eot": null,
+          "ttf": {
+              "type": "file",
+              "uri": "public:\/\/cohesion\/Montserrat-ExtraBold.ttf",
+              "uuid": "84369178-1131-4778-8a2d-2147988fd58a"
+          },
+          "woff": null,
+          "woff2": null
+      },
+      "uid": "bb6be1ef7934a1fa1350203338be2bb5"
+  }
+json_mapper: '{}'
+last_entity_update: entityupdate_0042
+locked: false
+modified: true
+selectable: true
+source: fonts

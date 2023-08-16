@@ -1,0 +1,31 @@
+uuid: 973175a0-ee43-4657-b903-c532601c6ade
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'file:file:7a9624c5-35e5-48df-b908-6554e1dd8dc9'
+label: 'Montserrat regular'
+id: 0abddcba8f6d1ee2ee6c936b68039ab1
+json_values: |
+  {
+      "type": "upload",
+      "fontDisplay": "auto",
+      "name": "Montserrat regular",
+      "fontFiles": {
+          "eot": null,
+          "ttf": {
+              "type": "file",
+              "uri": "public:\/\/cohesion\/Montserrat-Regular.ttf",
+              "uuid": "7a9624c5-35e5-48df-b908-6554e1dd8dc9"
+          },
+          "woff": null,
+          "woff2": null
+      },
+      "uid": "0abddcba8f6d1ee2ee6c936b68039ab1"
+  }
+json_mapper: '{}'
+last_entity_update: entityupdate_0042
+locked: false
+modified: true
+selectable: true
+source: fonts

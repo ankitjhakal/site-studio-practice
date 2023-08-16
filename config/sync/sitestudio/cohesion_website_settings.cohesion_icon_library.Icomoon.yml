@@ -1,0 +1,36 @@
+uuid: 28f202b3-8aa5-44b3-aa6d-5a45cabbf4ed
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'file:file:21c08b7d-9c15-4a11-9b91-863554892d25'
+    - 'file:file:82acc482-cb86-4809-b2e9-f12f42a03270'
+label: fontawesome
+id: Icomoon
+json_values: |
+  {
+      "fontFamilyName": "Icomoon",
+      "name": "icomoon fontawesome",
+      "key": "uploadIcomoon",
+      "type": "upload",
+      "provider": "Icomoon",
+      "fontFiles": {
+          "eot": null,
+          "ttf": {
+              "type": "file",
+              "uri": "public:\/\/cohesion\/IcoMoon-Free.ttf",
+              "uuid": "82acc482-cb86-4809-b2e9-f12f42a03270"
+          },
+          "woff": null,
+          "woff2": null
+      },
+      "iconJSON": {
+          "json": "public:\/\/cohesion\/selection.json"
+      }
+  }
+json_mapper: '{}'
+last_entity_update: entityupdate_0042
+locked: false
+modified: false
+selectable: true
+source: null

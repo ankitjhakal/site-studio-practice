@@ -1,0 +1,52 @@
+uuid: b1cc4339-634e-4e9c-9d20-74fc46072c63
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'file:file:027b48a1-536e-49d3-b73d-ce59c7c6765e'
+    - 'file:file:2190835a-0978-4577-b2bb-439f1adf44f2'
+    - 'file:file:42dd8520-c7eb-4d7a-922d-0820b28a9fbe'
+    - 'file:file:447e0517-00ae-4471-9e8b-91dd256140e8'
+    - 'file:file:81cf0f07-3a83-4cfb-883d-4f00cbc93125'
+label: 'Fontello fontawesome'
+id: Fontello
+json_values: |
+  {
+      "fontFamilyName": "Fontello",
+      "inuse": false,
+      "name": "Fontello fontawesome",
+      "key": "uploadFontello",
+      "type": "upload",
+      "provider": "Fontello",
+      "fontFiles": {
+          "eot": {
+              "type": "file",
+              "uri": "public:\/\/cohesion\/fontello.eot",
+              "uuid": "42dd8520-c7eb-4d7a-922d-0820b28a9fbe"
+          },
+          "ttf": {
+              "type": "file",
+              "uri": "public:\/\/cohesion\/fontello.ttf",
+              "uuid": "81cf0f07-3a83-4cfb-883d-4f00cbc93125"
+          },
+          "woff": {
+              "type": "file",
+              "uri": "public:\/\/cohesion\/fontello.woff",
+              "uuid": "2190835a-0978-4577-b2bb-439f1adf44f2"
+          },
+          "woff2": {
+              "type": "file",
+              "uri": "public:\/\/cohesion\/fontello.woff2",
+              "uuid": "027b48a1-536e-49d3-b73d-ce59c7c6765e"
+          }
+      },
+      "iconJSON": {
+          "json": "public:\/\/cohesion\/config_0.json"
+      }
+  }
+json_mapper: '{}'
+last_entity_update: entityupdate_0042
+locked: false
+modified: false
+selectable: true
+source: null

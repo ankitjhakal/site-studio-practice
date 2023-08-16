@@ -1,0 +1,27 @@
+uuid: c5d805d0-2395-419b-8c35-5882cd2f8479
+langcode: en
+status: true
+dependencies: {  }
+label: 'Montserrat Extra bold'
+id: 'montserrat extra bold'
+json_values: |
+  {
+      "inuse": false,
+      "systemfont": false,
+      "link": true,
+      "name": "Montserrat Extra bold",
+      "uid": "montserrat extra bold",
+      "variable": "$coh-font-montserrat extra bold",
+      "class": ".coh-font-montserrat extra bold",
+      "fontStack": "'Montserrat', sans-serif",
+      "smoothing": {
+          "firefox": true,
+          "webkit": true
+      }
+  }
+json_mapper: '{}'
+last_entity_update: entityupdate_0042
+locked: false
+modified: true
+selectable: true
+source: fontStacks

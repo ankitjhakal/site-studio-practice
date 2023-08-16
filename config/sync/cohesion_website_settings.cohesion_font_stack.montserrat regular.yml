@@ -1,0 +1,13 @@
+uuid: a35c48c4-53f6-4892-8965-8ff8ec17d258
+langcode: en
+status: true
+dependencies: {  }
+label: 'Montserrat regular'
+id: 'montserrat regular'
+json_values: '{"inuse":false,"systemfont":false,"link":true,"name":"Montserrat regular","uid":"montserrat regular","variable":"$coh-font-montserrat regular","class":".coh-font-montserrat regular","fontStack":"''Montserrat'', sans-serif","smoothing":{"firefox":true,"webkit":true}}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0042
+locked: false
+modified: true
+selectable: true
+source: fontStacks
